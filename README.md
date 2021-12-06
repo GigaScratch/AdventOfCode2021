@@ -1,7 +1,8 @@
 # Advent Of Code 2021 🔥🥰💝
 <br/>
 If you don't know what Advent Of Code is, you can find out more here: 
-[Advent of Code website](https://adventofcode.com/) 
+
+[Advent of Code website](https://adventofcode.com/)
 🎄🤶
 
 ___
